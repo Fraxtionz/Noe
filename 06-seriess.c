@@ -3,14 +3,14 @@
 main()
 {
     int cont=0;
-    int N;
+    int ls;
 
 printf("Valor de N: ");
-scanf("%d",&N);
+scanf("%d",&ls);
 
-while(cont<=N+N+1){
+while(cont<=ls+ls+1){
 
-    printf("%d ",(3*N)+(cont*2));
+    printf("%d ",(3*ls)+(cont*2));
 
     cont=cont+1;
 
